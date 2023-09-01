@@ -97,3 +97,6 @@ libxml2
 cargo
 stow
 p7zip
+yt-dlp
+exa
+chezmoi
