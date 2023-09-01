@@ -58,6 +58,7 @@ screens:
           - Picture Viewer: org.gnome.eog
           - Font Viewer: org.gnome.font-viewer
           - Font Downloader: org.gustavoperedo.FontDownloader
+          - Authenticator: com.belmoussaoui.Authenticator
         Web Browsers:
           description: Additional browsers to complement Firefox
           default: false
