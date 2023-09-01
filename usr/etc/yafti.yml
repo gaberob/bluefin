@@ -59,6 +59,14 @@ screens:
           - Font Viewer: org.gnome.font-viewer
           - Font Downloader: org.gustavoperedo.FontDownloader
           - Authenticator: com.belmoussaoui.Authenticator
+          - Warp: app.drey.Warp
+          - Decoder: com.belmoussaoui.Decoder
+          - Curtail: com.github.huluti.Curtail
+          - Text Pieces: com.github.liferooter.textpieces
+          - Apostrophe: org.gnome.gitlab.somas.Apostrophe
+          - Komikku: info.febvre.Komikku
+          - Parabolic: org.nickvision.tubeconverter
+          - Remmina: org.remmina.Remmina
         Web Browsers:
           description: Additional browsers to complement Firefox
           default: false
