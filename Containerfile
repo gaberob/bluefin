@@ -29,11 +29,9 @@ ADD build.sh /tmp/build.sh
 RUN /tmp/build.sh && \
     pip install --prefix=/usr yafti && \
     systemctl enable rpm-ostree-countme.service && \
-    systemctl enable tailscaled.service && \
     systemctl enable dconf-update.service && \
     fc-cache -f /usr/share/fonts/ubuntu && \
     fc-cache -f /usr/share/fonts/inter && \
-    rm -f /etc/yum.repos.d/tailscale.repo && \
     rm -f /usr/share/applications/fish.desktop && \
     rm -f /usr/share/applications/htop.desktop && \
     rm -f /usr/share/applications/nvtop.desktop && \
