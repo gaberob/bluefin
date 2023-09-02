@@ -24,7 +24,8 @@
 		"zsh",
 		"virt-install",
 		"virt-manager",
-		"virt-viewer"
+		"virt-viewer",
+		"sassc"
             ]
         },
         "exclude": {
