@@ -30,6 +30,7 @@ RUN /tmp/build.sh && \
     pip install --prefix=/usr yafti && \
     systemctl enable rpm-ostree-countme.service && \
     systemctl enable dconf-update.service && \
+    systemctl enable libvirtd && \
     fc-cache -f /usr/share/fonts/ubuntu && \
     fc-cache -f /usr/share/fonts/inter && \
     rm -f /usr/share/applications/fish.desktop && \
