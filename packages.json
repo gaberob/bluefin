@@ -21,7 +21,10 @@
                 "wireguard-tools",
                 "xprop",
                 "yaru-theme",
-		"zsh"
+		"zsh",
+		"virt-install",
+		"virt-manager",
+		"virt-viewer"
             ]
         },
         "exclude": {
