@@ -15,6 +15,7 @@
 		"gnome-shell-extension-drive-menu",
                 "input-remapper",
                 "libgda",
+		"solaar",
                 "libgda-sqlite",
                 "libratbag-ratbagd",
 		"pulseaudio-utils",
