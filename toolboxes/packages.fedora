@@ -6,6 +6,7 @@ bat
 btop
 yt-dlp
 p7zip
+p7zip-plugins
 fzf
 plocate
 fd-find
