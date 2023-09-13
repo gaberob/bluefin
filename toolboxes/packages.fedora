@@ -12,3 +12,4 @@ plocate
 fd-find
 tmux
 net-tools
+bind-utils
